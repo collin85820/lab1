@@ -1,0 +1,16 @@
+Script started on 2015年03月17日 (週二) 14時37分35秒
+]0;F74034091@2015cpp: ~F74034091@2015cpp:~$ whoami;pwd
+F74034091
+/home/F74034091
+]0;F74034091@2015cpp: ~F74034091@2015cpp:~$ gitconfig config[C[C[C[C[C[C -l
+user.name=collin85820
+user.email=collin85820@gmail.com
+]0;F74034091@2015cpp: ~F74034091@2015cpp:~$ git clone https://github.com/collin85820/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 30, done.[K
+remote: Compressing objects:   4% (1/21)   [Kremote: Compressing objects:   9% (2/21)   [Kremote: Compressing objects:  14% (3/21)   [Kremote: Compressing objects:  19% (4/21)   [Kremote: Compressing objects:  23% (5/21)   [Kremote: Compressing objects:  28% (6/21)   [Kremote: Compressing objects:  33% (7/21)   [Kremote: Compressing objects:  38% (8/21)   [Kremote: Compressing objects:  42% (9/21)   [Kremote: Compressing objects:  47% (10/21)   [Kremote: Compressing objects:  52% (11/21)   [Kremote: Compressing objects:  57% (12/21)   [Kremote: Compressing objects:  61% (13/21)   [Kremote: Compressing objects:  66% (14/21)   [Kremote: Compressing objects:  71% (15/21)   [Kremote: Compressing objects:  76% (16/21)   [Kremote: Compressing objects:  80% (17/21)   [Kremote: Compressing objects:  85% (18/21)   [Kremote: Compressing objects:  90% (19/21)   [Kremote: Compressing objects:  95% (20/21)   [Kremote: Compressing objects: 100% (21/21)   [Kremote: Compressing objects: 100% (21/21), done.[K
+remote: Total 30 (delta 9), reused 20 (delta 4), pack-reused 0[K
+Unpacking objects:   3% (1/30)   Unpacking objects:   6% (2/30)   Unpacking objects:  10% (3/30)   Unpacking objects:  13% (4/30)   Unpacking objects:  16% (5/30)   Unpacking objects:  20% (6/30)   Unpacking objects:  23% (7/30)   Unpacking objects:  26% (8/30)   Unpacking objects:  30% (9/30)   Unpacking objects:  33% (10/30)   Unpacking objects:  36% (11/30)   Unpacking objects:  40% (12/30)   Unpacking objects:  43% (13/30)   Unpacking objects:  46% (14/30)   Unpacking objects:  50% (15/30)   Unpacking objects:  53% (16/30)   Unpacking objects:  56% (17/30)   Unpacking objects:  60% (18/30)   Unpacking objects:  63% (19/30)   Unpacking objects:  66% (20/30)   Unpacking objects:  70% (21/30)   Unpacking objects:  73% (22/30)   Unpacking objects:  76% (23/30)   Unpacking objects:  80% (24/30)   Unpacking objects:  83% (25/30)   Unpacking objects:  86% (26/30)   Unpacking objects:  90% (27/30)   Unpacking objects:  93% (28/30)   Unpacking objects:  96% (29/30)   Unpacking objects: 100% (30/30)   Unpacking objects: 100% (30/30), done.
+]0;F74034091@2015cpp: ~F74034091@2015cpp:~$ exit
+
+Script done on 2015年03月17日 (週二) 14時38分46秒
